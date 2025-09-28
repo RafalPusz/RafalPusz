@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rafał 👋</h1>
+<p align="center">Junior Developer | .NET & C# Enthusiast | Exploring Full-Stack Development</p>
 
-<!--
-**RafalPusz/RafalPusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+I'm a passionate developer who enjoys creating practical projects and learning new technologies. I focus on clean code, automation, and real-world problem-solving. Currently expanding my skills in .NET, C#, and full-stack web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Demo / Repo |
+|---------|-------------|------------|-------------|
+| **Budget Manager App** | Console application to manage expenses, track budgets, and store data locally. | C#, .NET, JSON | [GitHub Repo](https://github.com/rafal-pusz/budget-manager) |
+| **🚧 Pusz Audio Design Website** | Website for a Polish audio manufacturer, showcasing high-quality wooden speakers with custom designs. Still under development.  | HTML, CSS, JavaScript, php, WordPress  | [Visit Site](https://puszaudiodesign.com/) |
+<!-- | **Mini Web Portfolio** | Personal web portfolio showcasing projects and skills, built with HTML/CSS/JS. | HTML, CSS, JavaScript | [Live Demo](https://rafal-pusz.github.io/portfolio) | !-->
+
+</div>
+
+---
+
+### How I Work
+- Clean and maintainable code.
+- Step-by-step testing and debugging.
+- Learning by building real-world projects.
+
+---
+
+### Connect with Me
+<div align="center">
+<a href="www.linkedin.com/in/rafał-pusz-920328250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/RafalPusz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+---
+
+### Contact Me
+Feel free to reach out for collaboration, questions, or just a chat about coding! 🚀
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
