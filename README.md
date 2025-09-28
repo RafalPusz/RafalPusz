@@ -14,7 +14,7 @@ I'm a passionate developer who enjoys creating practical projects and learning n
 
 | Project | Description | Tech Stack | Demo / Repo |
 |---------|-------------|------------|-------------|
-| **Budget Manager App** | Console application to manage expenses, track budgets, and store data locally. | C#, .NET, JSON, LINQ | [GitHub Repo](https://github.com/rafal-pusz/budget-manager) |
+| **Budget Manager App** | Console application to manage expenses, track budgets, and store data locally. | C#, .NET, JSON, LINQ | [GitHub Repo](https://github.com/RafalPusz/BudgetManager.git)) |
 | **🚧 Pusz Audio Design Website** | Website for a Polish audio manufacturer, showcasing high-quality wooden speakers with custom designs. Still under development.  | HTML, CSS, JavaScript, php, WordPress  | [Visit Site](https://puszaudiodesign.com/) |
 <!-- | **Mini Web Portfolio** | Personal web portfolio showcasing projects and skills, built with HTML/CSS/JS. | HTML, CSS, JavaScript | [Live Demo](https://rafal-pusz.github.io/portfolio) | !-->
 
