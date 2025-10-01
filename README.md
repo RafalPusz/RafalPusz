@@ -34,7 +34,7 @@ I'm a passionate developer who enjoys creating practical projects and learning n
 
 ### Connect with Me
 <div align="center">
-<a href="www.linkedin.com/in/rafał-pusz-920328250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/rafal-pusz-937b79387" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/RafalPusz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
